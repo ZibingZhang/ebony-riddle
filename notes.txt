@@ -1,0 +1,250 @@
+giskard
+- 9   | ziggy: names from level 8 on the floor are names of people who have passed through, his idea to write down, he lacks intuition, he'll never make it
+- 20  | lisa:  "i've heard he likes writing on the walls, but i've never met him so far"
+sukeena
+- 9   | ziggy: unsure if she exists, there are traces of her though...
+- 20  | lisa:  she owns the house and invented all the things in Rose Red, including the room i'm in, 'she must be a cruel one', but lisa hasn't met her to her knowledge
+murdock
+- 9   | ziggy: bad memory, place he lived 'much worse than this', can 'make reality "change"'
+- 20  | lisa:  stopped by once and explained that there is a place with buttons where if someone presses wrong one, they're instantly teleported to the room lisa is in
+               she could leave if someone pressed the button and also ended up in the room, he couldn't remember where it was, never made her suffer or went back
+aneninen
+- 9   | ziggy: said to be the creator of EBONY, but ziggy doubts this
+- 20  | lisa:  heard she's the one who created EBONY
+lisa
+- 9   | ziggy: 'she gets into deep trouble too easy'
+- 20  | lisa:  not sure how long she's in there, got in there by pushing a button, someone (not yxonumei?) gave her a bunch of drawing pins once, yxonumei said she should keep them
+               yxonumei visists frequently to push the button to cause her pain, but she's not the only one, the others remain nameless
+laura
+- 9   | ziggy: i'll meet her when water is darkest, ziggy thinks murdock told him that
+- 20  | lisa:  'someone told me before that she was stuck like me, though I don't know where, poor Laura, i hope she's all right'
+yxonumei
+- 9   | ziggy: afaik she came right before ziggy, little girl but creepily mature
+- 20  | lisa:  vell and creepy voice, sounds like a 12 y.o. but w/o anything nice in her voice, plays w/ lisa until she passes out
+               'belladonna' is password to glasswall apparently is how yxonumei leaves
+ziggy
+- 9   | ziggy: wants to answer some questions about why he's here, what this place is, etc.
+- 20  | lisa:  was here once, told her about yxonumei's addition to the plaque
+samara
+- 9   | ziggy: never met her and hopes he never will
+- 20  | lisa:  doesn't know who she is
+th-ts
+- 9   | ziggy: doesn't know anything about him or her
+- 20  | lisa:  'someone told me something about her, oh my, what was it? she never speaks, only sneaks, or something like that.'
+
+===================================================================================================
+
+0   /
+1   /ailyn/levelone.html
+2   /ailyn/intheshade.html
+3   /ailyn/oei.html
+4   /ailyn/obelisk.html
+5   /ailyn/gettingthere.html > /ailyn/answer.jpg
+6   /ailyn/thisway.html
+    > /ailyn/sukeena.html, sukeena's house
+7   /ailyn/rosered.html > /ailyn/sukeena/chase.html
+8   /beryl/inside.html
+    > /beryl/ziggy.html, ziggy met giskard when he first came in
+    - giskard, murdock, aneninen; lisa, laura, yxonumei; ziggy, samara, th-ts
+    - blue door, need username / password [/beryl/later.html]
+    - need peoples names to talk to them
+9   /beryl/ziggy/chitchat.html
+    >>> /berl/ziggy/...
+    > /beryl/ziggy/elevator.html,    call it to move it, has own language, say k instead of e
+    > /beryl/panel.html              panel too far away
+      elevator language:  a b c d e f g h i j k l m n o p q r s t u v w x y z
+                          l m j p k v e f n z a o w c g b s u d t h r x i y q
+                          {'a': 'l', 'b': 'm', 'c': 'j', 'd': 'p', 'e': 'k', 'f': 'v', 'g': 'e', 'h': 'f', 'i': 'n', 'j': 'z', 'k': 'a', 'l': 'o', 'm': 'w', 'n': 'c', 'o': 'g', 'p': 'b', 'q': 's', 'r': 'u', 's': 'd', 't': 't', 'u': 'h', 'v': 'r', 'w': 'x', 'x': 'i', 'y': 'y', 'z': 'q'}
+                          {'l': 'a', 'm': 'b', 'j': 'c', 'p': 'd', 'k': 'e', 'v': 'f', 'e': 'g', 'f': 'h', 'n': 'i', 'z': 'j', 'a': 'k', 'o': 'l', 'w': 'm', 'c': 'n', 'g': 'o', 'b': 'p', 's': 'q', 'u': 'r', 'd': 's', 't': 't', 'h': 'u', 'r': 'v', 'x': 'w', 'i': 'x', 'y': 'y', 'q': 'z'}
+    > /beryl/button.html, button to call elevator, if i need elevator say 'please come here'
+                                                                           bokldk jgwk fkuk
+10  /beryl/ziggy/bokldkjgwkfkuk.html
+    - elevator moves towards be horizontally, ziggy leaves
+    - <!-- user is one word, pw is two -->
+    > /beryl/ziggy/forunpw.html, need a pw if i want to 'get high'
+    > /beryl/ziggy/panelzoom.html, some code i need to decode to get pw of elevator
+      <!-- top right is the 2nd -->
+      corners spell grid
+    > /beryl/ziggy/note.html, 'the four corners will reveal what you're searching for' 
+      <!-- top left is the first -->
+    > /beryl/ziggy/grid.html, a crude grid was hidden behind the panel
+      --L----E-A--
+      RN----------
+      ----I-N---G-
+      --/--------- (actually //)
+      --------T---
+      -O-----F--L-
+      -----Y------
+      ------------
+    > /beryl/ziggy/learning/tofly.html, redirect to level 11
+11  /celia/moving.html
+      'suddenly the elevator stops in midair, you should figure out something if you want to keep moving'
+      <!-- f := #ae3d25 -->
+      anagram: kedpmqajtm
+    > /celia/same.html
+      similar image but upside down, different letters
+      <!-- k := PI -->
+      anagram: uarmclvmty
+    - dekurl > lurked
+==> 11 Branch 1
+12  /celia/lurked.html
+    - arrived at highest point, only route is a pipe that leads into darkness, i see a sign on wall near me
+    > celia/element.html
+      chinese characters, petagonal diagram with star in center, metal > water > wood > ? > earth
+13  /celia/huo.html
+    - huge pipe ends at platform, grate blocks the way, panel on grate along with carving below it
+    - panel needs 5 digit code, anything nearby that was 5 long?
+    > /celia/carving.html
+      s*t*a*v*e = 0
+      e*v*e = 2
+      s*e*t = 36
+      v*v = 3
+      e = 1
+      signed by giskard
+      <!-- what was the name of the other one? -->
+      solution: e=1, v=2, s=4, t=9, a=0
+    > /celia/49021.html, good point but wrong word (search another one that consists of the things you know)
+14  /celia/02049.html
+    - tunnel behind grate, above ground tunnel, aka hanging in air, feel i'm lost, need bright idea to progress
+    > /celia/bright.html, 'not this way, try to brighten something else'
+    > /celia/light.html, 'you've got a point, do you need more light, don't say it, do it'
+    > /celia/httur.html, 'your idea is correct, but you didn't find every letter'
+      <!-- tur----ht -->
+15  /celia/turnright.html
+    - huge, sphere-shaped creature forces me to stop
+    - aneninen likes the taste of oranges?
+16  /celia/orange.html
+    - arch-like object emitting light, separated from me by bottemless chasm
+    - wall text 'please kall police not me'
+    - thick, pitch-like fluid from ground, human-shaped silhouette climbs out of black liquid "where do you want to go? if you don't know the answer to this simple question, i'll swallow youm alive"
+    - <!-- you will only need to read it -->
+    - 101100 1000 110100 101 00
+      please kall police not me
+      p ea   k    po i   n t
+17  /celia/peakpoint.html
+    - floor hanging in air, right above sukeena's house, walking on glass, glass behind me is gone, light shining through light ahead of me
+    - two obvious exits, left or right, no glass there
+    > /celia/crossup.html, stars or ceiling with starmap, neither makes sense to me
+    > /celia/crossright.html, dead-end, near the edge i see a signpost-like object
+    > /celia/bordersign.html
+      steam = 2 / 1 | ste-- | slide 
+      charm = 0 / 0 | -----
+      bliss = 3 / 2 | bliss
+      flint = 2 / 2 | fli-t
+      nymph = 0 / 0 | -----
+      rhyme = 1 / 1 | r---e
+      stone = 2 / 2 | sto-e
+      cards = 2 / 1 | ---ds
+      first number: letter ok; second number: letter ok and position ok
+    > /celia/crossleft.html
+      can easily go down veil-like helter skelter, panel to deactivate force field needs 5 letter word
+    > /celia/crossdown.html
+      glass below me transparent, "tracks meet"
+18  /celia/slide.html
+    - back at sukeena's house, feeling that someone is watching me, nothing seems to have changed
+    > /celia/unpwforlvl19.html
+      <!-- what did you see at the peakpoint? -->
+    > /celia/tracks/meet.html > /dawne/surprise.html > /dawne/newdawn.html
+      as i reach for door handle lights go out, female calls out my name, before i answer she hits me hard and fast with some steel thing and i fall
+      time passes, not sure how long
+19  /dawne/great.html
+    - dim light fills the place, looks like a closet, maybe if i had more light i could search it
+    - hupjew written on the ground backwards
+    - locked door ahead of me needs a word
+20  /dawne/charming.html
+    - left closet, at small passage, glasswall blocks way to right, locked door in front w/ no handle/lock
+    - two buttons (one near door one near glasswall), through vent i can see where door leads, writing on wall near vent
+    > /dawne/doorplaque.html
+      1. this door cannot be opened from outside
+      2. this door cannot be opened from inside if someone's alone in there
+      3. at least one person must be in there
+         -sukeena
+      4. have fun with that button!
+         - yxonumei
+    > /dawne/lady.html > /dawne/lisa/lisa.html > /dawne//lisa/lisa2.html > /dawne/lisa/charming.html
+      peering through vent, i see into unlit room, it's lisa on the ground (young-looking, short, dark-haired, pretty)
+      got in there by pushing a button, someone (not yxonumei?) gave her a bunch of drawing pins once, yxonumei said she should keep them
+      yxonumei visists frequently to push the button to cause her pain, but she's not the only one, the others remain nameless
+    >>> /dawne/lisa/...
+      'belladonna' is password to glasswall apparently is how yxonumei leaves
+    > /dawne/lisa/belladonna.html, opens the glasswall
+21  /dawne/belladonna.html
+    - leads to room with bunch of numbers and letters, can go left or right, but either way needs a code
+      -------------------------------------------
+      | 00-N | 01-M | 02-Q | 03-D | 04-L |      |
+      -------------------------------------------
+      | 05-P | 06-E | 07-K | 08-B | 09-Z |      |
+      -------------------------------------------
+      | 10-O | 11-C | 12-S | 13-X | 14-G |      |
+      -------------------------------------------
+      | 15-T | 16-V | 17-H | 18-U | 19-W | 20-J |
+      -------------------------------------------
+      numbers on wall: 59 52 46 45 27 01
+                       17 10 04 03 06 01
+                        H  O  L  D  E  M
+      missing letters: A F I R Y > fairy
+==> 21 Branch 1
+22  /dawne/holdem.html
+    - few turns later there's a dead-end, room is absurd, angles of walls don't match, even table w/ cards looks odd, place cannot be real, must be way out
+    > /dawne/runner.html, some cards, a flush poker hand
+    > /dawne/flush.html, 'sure is, what kind of?'
+    > /dawne/doorflush.html, need to name the door properly...
+23  /dawne/backdoor.html
+    - i've found a backdoor, i go up stairway and open trapdoor and am outside, was probably in sukeena's basement this whole time, now am near a wall
+      few meters away if 'abundant and impassable vegetation in the darkness', trapdoor closed behind me and can't be opened from this side
+    > /dawne/backdoor#.html [where # is a number], order of numbers when pressing right arrow: 8 1 7 10 9 3 6 4 2 5 8 ...
+                                                                                               D W D  N E L I L E H D > WELLHIDDEN
+24  /dawne/wellhidden.html
+    - inside the house again, stairwell leads to first floor, masked guard gives riddle
+    > /dawne/righteye.html, some colored grid, 650nm.jpg
+    > /dawne/lefteye.html, different colored grid, spectrum.jpg
+    - N I G H T
+      C A L L S ?
+    > /dwane/night/calls, redirects to next level
+25  /ellie/scattered.html
+    - up the stairs an arch awaits me, w/o lights but switch on wall, '11:18:25 -murdock'
+    - minusone
+26  /ellie/minusone.html
+    - things have turned out inside out in a sort of way, the arch is glowing with a familiar picture from the anagram level
+==> 21 Branch 2
+22  /dawne/fairy.html
+    - after walking down the corridor, the room behind me (and the walls) have disappeared, in a strange meadow, either plants are oversized or i've shrunken a lot, can't decide
+23  /dawne/faraway.html
+    - flower with letters, mysterious voice, a bumblebee was at the flower a few minutes ago, voice tells me to ask it about it's flight
+    > /dawne/bumblebee.html > /dawne/bombus.html
+      i ask the bee to show me the flight pattern from a few minutes ago, bee shows me path then says "you're welcome goodbye"
+      path with letters: S P R I N G L O V E
+24  /dawne/springlove.html
+    - after wandering the beautiful plants, i'm lost once again, i spot an unusual leaf, could it be the way back
+    > /dawne/supox/blade.html, redirect to level 25
+25  /fruzs/restore.html
+    - giant tree, talks to me, tells me if i climb it i will be back at rose red
+    > /fruzs/negative.html, fixed the tree by rotating it and inverting the colors, 'it must be on me somewhere'
+    > /fruzs/numberone.html, some monty python script with the word 'larch' missing
+26  /fruzs/larch.html
+    - after climbing the larch it disappears and i'm at the bottom of a staircase, i follow the stairs to a gate with no apparent way of opening it, some words on stairs and symbols on a wall
+    > /fruzs/gemini.html OR /fruzs/aries, 'correct, on the other hand, you need to *translate* something another way'
+27  /fruzs/fade.html
+    - gate fades into nothingness, now in corridor which leads nowhere, simply *ends*, 'quite demoralizing'
+    > /fruzs/dsztubmmjof.html, 'the door is locked', '-1' for page title
+    > /fruzs/lostpage.html, sukeena is missing, samara is out of control, behavior of th-ts is threat
+      'more and more end up in EBONY which means things are worse "out there"', unknown author can choose 'least expected' forks which is an advantage, their 'special move'
+    > /fruzs/lostpage2.html, hopes that 'far away' path will stop many, something about a 'fairy path', if can't find 'fairy path' will be stuck between 'fade' and 'violet' before reaching 'cracks meet' for the third time
+      most will take the 'flush path' which means they will never find the 'backdoor', something about 'gardens of v', author must act as outsider and find laura
+      33.5.54.432
+=================== thie might be the wrong path, really doesn't seem like the right way to go
+26  /fruzs/crystalline.html
+    - nothing here apart from a strange object towering above me, the answer is elemental
+      24 39 78 53 06
+      cr  y pt  i  c
+MM2 /fruzs/cryptic.html, mystic marvel #2 - an albatross in the night
+    - time performs a circle here which is perpendicular to the space/time of EBONY which means i can rest here for a bit
+28  /fruzs/violet.html
+    - i'm back at the entrance, no one here, i approach the door but find the pw has been changed, as i figure something out a dark and short-haired man in a long brown coat hurries to entrance and starts searching floor
+      thinks his name was the second in the row, says something is coming
+===================
+==> 11 Branch 2
+12  /celia/dreamy.html
+    - elevator stops, as i exit the machine goes down a bit and stops functioning
+15  /celia/temperance.html
+    - 'my friends have lost their way' written backwards on wall
