@@ -1,36 +1,62 @@
 giskard
-- 9   | ziggy: names from level 8 on the floor are names of people who have passed through, his idea to write down, he lacks intuition, he'll never make it
-- 20  | lisa:  "i've heard he likes writing on the walls, but i've never met him so far"
+- 9   | ziggy:   names from level 8 on the floor are names of people who have passed through, his idea to write down, he lacks intuition, he'll never make it
+- 20  | lisa:    "i've heard he likes writing on the walls, but i've never met him so far"
+- 28  | murdock: thinks fast and tries to help everyone, he said should write names down, he found out about an appointment
 sukeena
-- 9   | ziggy: unsure if she exists, there are traces of her though...
-- 20  | lisa:  she owns the house and invented all the things in Rose Red, including the room i'm in, 'she must be a cruel one', but lisa hasn't met her to her knowledge
+- 9   | ziggy:   unsure if she exists, there are traces of her though...
+- 20  | lisa:    she owns the house and invented all the things in Rose Red, including the room i'm in, 'she must be a cruel one', but lisa hasn't met her to her knowledge
+- 28  | murdock: sukeena is male, didn't give him (murdock) any info, kept saying he had to find laura, says sukeena exists but his existence is pointless
 murdock
-- 9   | ziggy: bad memory, place he lived 'much worse than this', can 'make reality "change"'
-- 20  | lisa:  stopped by once and explained that there is a place with buttons where if someone presses wrong one, they're instantly teleported to the room lisa is in
-               she could leave if someone pressed the button and also ended up in the room, he couldn't remember where it was, never made her suffer or went back
+- 9   | ziggy:   bad memory, place he lived 'much worse than this', can 'make reality "change"'
+- 20  | lisa:    stopped by once and explained that there is a place with buttons where if someone presses wrong one, they're instantly teleported to the room lisa is in
+                 she could leave if someone pressed the button and also ended up in the room, he couldn't remember where it was, never made her suffer or went back
+- 28  | murdock: thinks his own name is murdock, has terrible headaches, thinks turning things (altering reality) was a lot easier at home, something about eternal night but sun rose
+                 someone told him entire reality is dying and he could reverse things and that it would be easy for him, then night came and he woke up here, was a man who talked to him
+                 he's very forgetful so he writes down the things he learns
+                 name is j. murdock, came from the 'da-'
 aneninen
-- 9   | ziggy: said to be the creator of EBONY, but ziggy doubts this
-- 20  | lisa:  heard she's the one who created EBONY
+- 9   | ziggy:   said to be the creator of EBONY, but ziggy doubts this
+- 20  | lisa:    heard she's the one who created EBONY
+- 28  | murdock: comes from africa long ago, used to be maid-servant in rose red and now she owns rose red (a different one?)
+                 first one to arrive in EBONY but her existence is unproven
+                 i ask if murdock is sure about aneninen, and he asks if things have changed again
 lisa
-- 9   | ziggy: 'she gets into deep trouble too easy'
-- 20  | lisa:  not sure how long she's in there, got in there by pushing a button, someone (not yxonumei?) gave her a bunch of drawing pins once, yxonumei said she should keep them
-               yxonumei visists frequently to push the button to cause her pain, but she's not the only one, the others remain nameless
+- 9   | ziggy:   'she gets into deep trouble too easy'
+- 20  | lisa:    not sure how long she's in there, got in there by pushing a button, someone (not yxonumei?) gave her a bunch of drawing pins once, yxonumei said she should keep them
+                 yxonumei visists frequently to push the button to cause her pain, but she's not the only one, the others remain nameless
+- 28  | murdock: no idea who lisa is but her name is familiar
 laura
-- 9   | ziggy: i'll meet her when water is darkest, ziggy thinks murdock told him that
-- 20  | lisa:  'someone told me before that she was stuck like me, though I don't know where, poor Laura, i hope she's all right'
+- 9   | ziggy:   i'll meet her when water is darkest, ziggy thinks murdock told him that
+- 20  | lisa:    'someone told me before that she was stuck like me, though I don't know where, poor Laura, i hope she's all right'
+- 28  | murdock: sukeena was searching for laura desperately
 yxonumei
-- 9   | ziggy: afaik she came right before ziggy, little girl but creepily mature
-- 20  | lisa:  vell and creepy voice, sounds like a 12 y.o. but w/o anything nice in her voice, plays w/ lisa until she passes out
-               'belladonna' is password to glasswall apparently is how yxonumei leaves
+- 9   | ziggy:   afaik she came right before ziggy, little girl but creepily mature
+- 20  | lisa:    vell and creepy voice, sounds like a 12 y.o. but w/o anything nice in her voice, plays w/ lisa until she passes out
+                 'belladonna' is password to glasswall apparently is how yxonumei leaves
+- 28  | murdock: thinks she's yxonumei is not a little girl at all, she said she had just been free from some horribly painful thing
+                 she talked about endless suffering or something without any emotion, not even the joy of being free again, has a feeling she can tune as well
 ziggy
-- 9   | ziggy: wants to answer some questions about why he's here, what this place is, etc.
-- 20  | lisa:  was here once, told her about yxonumei's addition to the plaque
+- 9   | ziggy:   wants to answer some questions about why he's here, what this place is, etc.
+- 20  | lisa:    was here once, told her about yxonumei's addition to the plaque
+- 28  | murdock: knows as much as i about him
 samara
-- 9   | ziggy: never met her and hopes he never will
-- 20  | lisa:  doesn't know who she is
+- 9   | ziggy:   never met her and hopes he never will
+- 20  | lisa:    doesn't know who she is
+- 28  | murdock: "isn't she the one who keeps torturing yxonumei?"
 th-ts
-- 9   | ziggy: doesn't know anything about him or her
-- 20  | lisa:  'someone told me something about her, oh my, what was it? she never speaks, only sneaks, or something like that.'
+- 9   | ziggy:   doesn't know anything about him or her
+- 20  | lisa:    'someone told me something about her, oh my, what was it? she never speaks, only sneaks, or something like that.'
+- 28  | murdock: 'she never speaks, only sneaks but you know more about her than me', i met her last time i was here (was she the one who knocked me out?)
+ebony
+- 9   | ziggy:   EBONY is a mixture of absurd alternative realities, sukeena's house is one of the meeting points of EBONY, everyone is there at least once
+- 20  | lisa:    it is a vast place, plenty of traps and has its own logic, someone told her it was made for keeping ideas and people away from reality and that it was a backup because 'normal reality started to fade away'
+- 28  | murdock: maybe sukeena created EBONY
+111825
+- 28  | murdock: that is the time of something he does not remember
+password
+- 28  | murdock: "it is changing but not randomly once you've found it out you can get every consecutive word with a little sense"
+time
+- 28  | murdock: time is mismatched, terrible things can happen if two meet but are not in the same time
 
 ===================================================================================================
 
@@ -230,9 +256,8 @@ th-ts
     > /fruzs/lostpage.html, sukeena is missing, samara is out of control, behavior of th-ts is threat
       'more and more end up in EBONY which means things are worse "out there"', unknown author can choose 'least expected' forks which is an advantage, their 'special move'
     > /fruzs/lostpage2.html, hopes that 'far away' path will stop many, something about a 'fairy path', if can't find 'fairy path' will be stuck between 'fade' and 'violet' before reaching 'cracks meet' for the third time
-      most will take the 'flush path' which means they will never find the 'backdoor', something about 'gardens of v', author must act as outsider and find laura
+      most will take the 'flush path' which means they will never find the 'backdoor', last resort can 'evade into gardens of v', author must act as outsider and find laura
       33.5.54.432
-=================== thie might be the wrong path, really doesn't seem like the right way to go
 26  /fruzs/crystalline.html
     - nothing here apart from a strange object towering above me, the answer is elemental
       24 39 78 53 06
@@ -241,10 +266,47 @@ MM2 /fruzs/cryptic.html, mystic marvel #2 - an albatross in the night
     - time performs a circle here which is perpendicular to the space/time of EBONY which means i can rest here for a bit
 28  /fruzs/violet.html
     - i'm back at the entrance, no one here, i approach the door but find the pw has been changed, as i figure something out a dark and short-haired man in a long brown coat hurries to entrance and starts searching floor
-      thinks his name was the second in the row, says something is coming
-===================
+      thinks his name was the second in the row, says something is coming, the names on the ground are gone
+      the man is murdock and he gives some thoughts on the people
+    > /fruzs/murdockviolet.html, some thoughts about himself
+      EBONY tunes itself or we tune it, no one can be in this space alone, if you're here someone else appears, forks are less like forks but more like circles
+    > /fruzs/gproceed.html, title is tniopkaep > peakpoint
+    > /fruzs/skcart/teem.html, redirect for level 29
+29  /gwenn/mix.html
+    - finally got through annoying door, there is another door with a screen broadcast showing static and some text
+    > /gwenn/pushypic.html, button with random images of straight lines
+    > /gwenn/doorhandle29.html, 'there are plenty of destinations here, name one', text disappears as i release handle
+==> 29 Branch 1
+30  /gwenn/amazed.html
+    - enter the door and tele to unknown dark place with glowing ground, even dark horizon, walk to edge, suddenly cat statue materializes in front of me, has female low-pitched voice
+      'this is the edge of the world', need to ask her to help me, she is a goddess
+    > /gwenn/bastet.html, redirect for level 31
+31  /gwenn/obelisk.html
+    - appear on lakeside, wooden shack floats on water, doorway protected by force field, need to get to shack, as i touch water the shack moves on a bit, am in great need of help
+32  /gwenn/meluzyna.html
+    - saying the right name makes the shack 'swim' to me instantly, for field disappears so i can enter, it moves really fast, stops, then i exit, i'm outside it is late at night
+      wolves crying far away, find some dates on signpost
+33  /gwenn/bluemoon.html
+    - walking towards the moon, follow path in front of my to chasm, only bridge to cross it protected by force field, strange yellow-ish tile attached to soil near bridge, scroll lying on ground
+    > /gween/scroll33.html, 'sing along the goddes chant'
+==> 29 Branch 2
+30  /gwenn/spooky.html
 ==> 11 Branch 2
 12  /celia/dreamy.html
-    - elevator stops, as i exit the machine goes down a bit and stops functioning
+    - elevator stops, as i exit the machine goes down a bit and stops functioning, no way out not even a door
+      clearly haven't lost my way, graffiti on wall shows that others have been here before
+    > /celia/label4.html, notes about the people
+    > /celia/label2.html, 'to summon the door perform these moves [image] -sukeena', indicate how word must be written by hand
+    > /celia/veil.html, summons a door
+13  /celia/misext.html
+    - new corridor but something's wrong, somethings obscures my eyes and i can't see any details, can't go on until things are back to normal
+      <!-- -----i-- -->
+    > /celia/lookup.jpg, 'showtime' on ceiling
+14  /celia/showtime.html
+    - sight is back but as i reach corner think and wet fog arrives from right, large picture with title missing, title xiv suggests there might be more of them somewhere
+      image is of taro card
 15  /celia/temperance.html
-    - 'my friends have lost their way' written backwards on wall
+    - 'my friends have lost their way' written backwards on wall, j on wall, fog somewhat dissipates, stairs on left but seems to be dead-end
+16  /celia/bluejayway.html
+    - climbing up endless looking stairs, it ends with darkened glass wall blocking the end, someone attached plaques with letters on stairs but didn't finish the job
+      T N K I A O E P P
