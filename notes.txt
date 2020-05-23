@@ -2,6 +2,7 @@ giskard
 - 9   | ziggy:   names from level 8 on the floor are names of people who have passed through, his idea to write down, he lacks intuition, he'll never make it
 - 20  | lisa:    "i've heard he likes writing on the walls, but i've never met him so far"
 - 28  | murdock: thinks fast and tries to help everyone, he said should write names down, he found out about an appointment
+- 31  | samara:  'too smart must be eliminated'
 sukeena
 - 9   | ziggy:   unsure if she exists, there are traces of her though...
 - 20  | lisa:    she owns the house and invented all the things in Rose Red, including the room i'm in, 'she must be a cruel one', but lisa hasn't met her to her knowledge
@@ -20,25 +21,31 @@ aneninen
 - 28  | murdock: comes from africa long ago, used to be maid-servant in rose red and now she owns rose red (a different one?)
                  first one to arrive in EBONY but her existence is unproven
                  i ask if murdock is sure about aneninen, and he asks if things have changed again
+- 31  | samara:  creater of ebony / its ironic since ebony is smarter than him
+                 ebony is out of control now but that shall change
 lisa
 - 9   | ziggy:   'she gets into deep trouble too easy'
 - 20  | lisa:    not sure how long she's in there, got in there by pushing a button, someone (not yxonumei?) gave her a bunch of drawing pins once, yxonumei said she should keep them
                  yxonumei visists frequently to push the button to cause her pain, but she's not the only one, the others remain nameless
 - 28  | murdock: no idea who lisa is but her name is familiar
+- 31  | samara:  'i love hurting her, she is so vulnerable,' / 'and i am not the only one who loves her desperate screams'
 laura
 - 9   | ziggy:   i'll meet her when water is darkest, ziggy thinks murdock told him that
 - 20  | lisa:    'someone told me before that she was stuck like me, though I don't know where, poor Laura, i hope she's all right'
 - 28  | murdock: sukeena was searching for laura desperately
+- 31  | samara:  'tiny light caught in middle of sea of darkness, must be destroyed'
 yxonumei
 - 9   | ziggy:   afaik she came right before ziggy, little girl but creepily mature
 - 20  | lisa:    vell and creepy voice, sounds like a 12 y.o. but w/o anything nice in her voice, plays w/ lisa until she passes out
                  'belladonna' is password to glasswall apparently is how yxonumei leaves
-- 28  | murdock: thinks she's yxonumei is not a little girl at all, she said she had just been free from some horribly painful thing
+- 28  | murdock: thinks that yxonumei is not a little girl at all, she said she had just been free from some horribly painful thing
                  she talked about endless suffering or something without any emotion, not even the joy of being free again, has a feeling she can tune as well
+- 31  | samara:  'a pity that she got out'
 ziggy
 - 9   | ziggy:   wants to answer some questions about why he's here, what this place is, etc.
 - 20  | lisa:    was here once, told her about yxonumei's addition to the plaque
 - 28  | murdock: knows as much as i about him
+- 31  | samara:  he's too curious / you're too curious as well
 samara
 - 9   | ziggy:   never met her and hopes he never will
 - 20  | lisa:    doesn't know who she is
@@ -47,16 +54,27 @@ th-ts
 - 9   | ziggy:   doesn't know anything about him or her
 - 20  | lisa:    'someone told me something about her, oh my, what was it? she never speaks, only sneaks, or something like that.'
 - 28  | murdock: 'she never speaks, only sneaks but you know more about her than me', i met her last time i was here (was she the one who knocked me out?)
+- 31  | samara:  'thief'
 ebony
 - 9   | ziggy:   EBONY is a mixture of absurd alternative realities, sukeena's house is one of the meeting points of EBONY, everyone is there at least once
 - 20  | lisa:    it is a vast place, plenty of traps and has its own logic, someone told her it was made for keeping ideas and people away from reality and that it was a backup because 'normal reality started to fade away'
 - 28  | murdock: maybe sukeena created EBONY
+- 31  | samara:  out of control / but she enjoys it
 111825
 - 28  | murdock: that is the time of something he does not remember
+- 31  | samara:  you will never find out
 password
 - 28  | murdock: "it is changing but not randomly once you've found it out you can get every consecutive word with a little sense"
 time
+- 20  | lisa:    murdock told her that that's the time
 - 28  | murdock: time is mismatched, terrible things can happen if two meet but are not in the same time
+ted
+medusa
+halle[maria]berry
+ban boil
+f'urk
+lin huan
+
 
 ===================================================================================================
 
@@ -65,12 +83,13 @@ time
 2   /ailyn/intheshade.html
 3   /ailyn/oei.html
 4   /ailyn/obelisk.html
-5   /ailyn/gettingthere.html > /ailyn/answer.jpg
+5   /ailyn/gettingthere.html 
+    > /ailyn/answer.jpg
 6   /ailyn/thisway.html
     > /ailyn/sukeena.html, sukeena's house
 7   /ailyn/rosered.html > /ailyn/sukeena/chase.html
 8   /beryl/inside.html
-    > /beryl/ziggy.html, ziggy met giskard when he first came in
+    > /beryl/ziggy.html, ziggy met giskard when he first came in, redirect for level 9
     - giskard, murdock, aneninen; lisa, laura, yxonumei; ziggy, samara, th-ts
     - blue door, need username / password [/beryl/later.html]
     - need peoples names to talk to them
@@ -230,8 +249,25 @@ time
 25  /ellie/scattered.html
     - up the stairs an arch awaits me, w/o lights but switch on wall, '11:18:25 -murdock'
     - minusone
+    > /ellie/111825.html
 26  /ellie/minusone.html
     - things have turned out inside out in a sort of way, the arch is glowing with a familiar picture from the anagram level
+    > /ellie/11.html, 'the number of magick, plus, the number stands for something else too...'
+27  /ellie/anagram2.html  (name of image is 'anagram2')
+    - way is clear, enter arch, arrive at a locked door, four swithces on wall, use them to open door
+    - THEN YET TWIG > TWENTYEIGHT
+    - AIR SLIM > SIMILR
+    - SONIC REV ON > COVEN IS ??? (NOR) || CONVERSION
+    - MANA RAG > ANAGRAM
+28  /ellie/similar.html
+    - back at entrance, password changed, thin nerd-ish boy entered hall from outside, his name is Max
+    > /ellie/maxchat.html
+      he programmed the algorithm in EBONY to react to the users in it
+      now he's stuck inside as well, just arrived, there _was_ a terminating sequence but he doesn't know what it is
+      also doesn't know who made up the basic idea
+    > /ellie/kcab.html, back at elevator
+    > /ellie/skcart/teem.html, redirect for level 29
+29  GO TO /gwenn/mix.html
 ==> 21 Branch 2
 22  /dawne/fairy.html
     - after walking down the corridor, the room behind me (and the walls) have disappeared, in a strange meadow, either plants are oversized or i've shrunken a lot, can't decide
@@ -276,6 +312,8 @@ MM2 /fruzs/cryptic.html, mystic marvel #2 - an albatross in the night
     - finally got through annoying door, there is another door with a screen broadcast showing static and some text
     > /gwenn/pushypic.html, button with random images of straight lines
     > /gwenn/doorhandle29.html, 'there are plenty of destinations here, name one', text disappears as i release handle
+    - blue & yellow > SPOOKY
+    - white & red   > AMAZED
 ==> 29 Branch 1
 30  /gwenn/amazed.html
     - enter the door and tele to unknown dark place with glowing ground, even dark horizon, walk to edge, suddenly cat statue materializes in front of me, has female low-pitched voice
@@ -289,8 +327,137 @@ MM2 /fruzs/cryptic.html, mystic marvel #2 - an albatross in the night
 33  /gwenn/bluemoon.html
     - walking towards the moon, follow path in front of my to chasm, only bridge to cross it protected by force field, strange yellow-ish tile attached to soil near bridge, scroll lying on ground
     > /gween/scroll33.html, 'sing along the goddes chant'
+    > /gwenn/hecate/astarte, redirect to level 34
+34  /halle/title.html
+    - pass chasm and follow path for a while, reach bank of river, without boat or bridge it seems to be impassable, near a tree by river is a hold in the ground
+    > /halle/thetitle.html, some objects: old, dusty record player, odd screen with button, piece of paper
+      record player plays this song: https://www.youtube.com/watch?v=J8HdYIlnO9U
+35  /halle/theriddle.html
+    - other side of river, walking is tired, i get sleepy and my alterness drops
+      small plant in middle of road talking to me
+      was originally a lady, don't know why or how she got there
+      remember people: thin young man with messy white hair (nervous about something), strange girl carrying huge spear (watered her)
+    > /halle/[miranda|ororo|leticia].html, who was [miranda|ororo|leticia]?
+    > /halle/helleborus.html, name of plant, need name of well known woman
+    > /halle/halleberry.html, the has a 'second' name too, halle ... berry
+    > /halle/hallemariaberry.html, she joins me on my adventure, redirect to level 36
+36  /halle/delusion.html
+    - all colors disappear and silhouette of dark exceptionally thin woman appears, 'your nightmare is about to start', i can hear her thoughts in my mind
+      says we all made her suffer so now we will pay for it, does something to halle and she drops, horrible pictures fill my mind
+      she says why should she stop / only the beginning AND no one asked her how she felt / things will never change she will never change
+    > /halle/samara36.html, SAME AS LEVEL 31 FROM OTHER BRANCH
+    >>> /gwenn/samaratalk/... (same as >>> /gwenn/samara/...)
+37? /zelda/level0037.html
+    - had a terrible nightmare while unconscious, in new nightmare, alone in room except for strange piece of darkness floating in the air, i can feel that it senses my presence
+      looking at it causes fear
+    > /zelda/level0037.txt, .txt is right, need a number
+    > /zelda/378.txt, some text file with interesting things and dialogue
+        NNN a (0)	ONN h (2)	LNN b (6)	ANN l (.)
+	NNO a (0)	ONO h (3)	LNO b (7)	ANO l (!)
+	NNL a (1)	ONL ph (4)	LNL p (8)	ANL l / r (?)
+	NNA a (1)	ONA gh (5)	LNA p (9)	ANA r (')
+
+	NON e		OON g		LON [alt. next]	AON d
+	NOO e		OOO ng		LOO [alt. prev]	AOO t
+	NOL e / u	OOL [not used]	LOL f		AOL t
+	NOA u		OOA [again]	LOA v		AOA th
+
+	NLN n		OLN i		LLN x		ALN x
+	NLO n / m	OLO i		LLO c / k / x	ALO [number]
+	NLL n / m	OLL o		LLL z		ALL [/number]
+	NLA m		OLA o		LLA [end msg.]	ALA ["forced" space]
+
+	NAN c		OAN j		LAN y		AAN s
+	NAO k		OAO [start msg.]LAO y		AAO s
+	NAL c / k	OAL [not used]	LAL w		AAL s / sh 
+	NAA q		OAA [comma (,)]	LAA w		AAA sh
+      NNN NNN AAA AAA NAN OAO ANN NNN AOL NON ANA LAN OLL NOA LAA OLO ANL ANL NLL NOO NOL AON OLO AOO LLA LLA NLL OLA NNO NNA LLL LLL LLL LL > LATER YOU WILL NEED IT
+                               l   a   t   e   r   y   o   u   w   i   l   l  n/m  e  e/u  d   i   t
+      36560845462746048
+      AAA LLN AAA OLA NAL LAN OAO LOL ANL OLA NLO LON ANL
+                                   f  l/r  o  n/m ??? l/r
+    > /zelda/intermediate38.html, disturbing thing disappears, just as well as the floor, filled by water from below, i realize i can breath underwater, redirect to level 38
+38 /gwenn/bhalf.html
+39 GO TO /gween/recapitulation.html
 ==> 29 Branch 2
 30  /gwenn/spooky.html
+    - middle of ghost feast or something like that, insubstantial creatures are dancing, music is menacing
+      dance stops when they spot me, female one tells me a scary rhyme, then they continue dancing without music
+31  /gwenn/wraith.html
+    - 'your nightmare is about to start now', silhouette of dark thin women appeared out of nowhere, hearing her thoughts in my mind
+      she claims i made her suffer and that i'll pay for it, she says i didn't stop and she will never stop either
+      she does some stuff to me and puts disturbing images in my head, she seems really disturbed...
+    > /gwenn/samara.html, that is who she is, she's not in the mood to talk
+    >>> /gwenn/samara/...
+    > /gwenn/samara/sukeena.html OR /gween/samara/murdock.html OR /gween/samara/yxonumei.html, redirect to level 32
+    - she floats next time me, horrible image in my mind, i pass out
+32  /zelda/dis.html
+    - time passed, i was unconscious and dreaming, i wake up to a hot room, it hurts its so hot
+      no way out, section of wall consists of jelly-like matter, floor has text 'it's over, nothing works'
+      am distressed, achieved nothing after long journey, fed up with EBONY
+    > /zelda/ted.html, no answer since no one is here
+    > /zelda/enchanted.html, you're missing the first part
+33  /zelda/disenchanted.html
+    - run headlong into jelly, i break through, underwater now, tiny shiny bubbles glowing in the darkness, little pieces of jelly aggregate and form large jellyfish
+      they float around me but mean no harm, 'two of them are telling lies' says one of the medusas
+    > /zelda/medusa.html OR /zelda/medusas.html OR /zelda/jellyfish.html, not the first one they've met, i should focus on bubbles, i am deep underwater, deep below surface of EBONY
+      they guess that i have met samara, and they know her
+34  /zelda/downbythewater.html
+    - keep swimming a while and get lost, dark and no point of reference, after some time i see the contour of a building (or where i think are walls), should try to enter
+    > zelda/4714.html, 4714n715
+35  /zelda/atlantis.html
+    - i'm in the building, bit more light here, i see the remains of a large stone building, i would approach it but a deep voice stops me and says i can't enter
+    > /zelda/dragon.html, what kind of dragon
+36  /zelda/waterdragon.html
+    - 'you can go if you wish, but don't expect too much'
+      i've never seen the dragon only heard its voice
+      i see staircase, either i swim or walk, but i'm unsure about it, where do i want to go anyways?
+37  /zelda/allthesame.html
+    - take random direction, find small odd-looking glowing cave, currents are different here, the water comes from the strange cavern, perhaps i should investigae more thoroughly
+    > /zelda/matryoshka/inside.html, take a closer look
+    > /zelda/matryoshka/inside/babushka.html, a closer look...
+    > /zelda/matryoshka/inside/doll/woman.html, an even closer look...
+    > /zelda/matryoshka/inside/doll/russian/woman.html, an exceptionally close look...
+    > /zelda/matryoshka/inside/doll/russian/easter/egg.html, 'dis is a rock'
+    > /zelda/disisarock.html, lift rock and cave opens, i swim through the vent, redirect to level 38
+38  /zelda/ahalf.html
+    - after a short while thick vegetation blocks my way, should find safe path through it somehow, if i enter now i'll probably lose my way
+39  /zelda/recapitulation.html
+    - enter artificial looking entrance to find a corridor, seems like these hallways look the same in EBONY even underwater
+      glasswall in front of me can only be activated by touch-pad on panel
+    > /zelda/sum12.html, pictures of levels with letters next to them, <!-- 25=26 -->
+      /zelda/ascending/##.jpg:
+          letter:  E  Y  L  E  C  R  L  Y  L  O  R  E
+          level:  30 37 26 30 ?? 14 25 37 06 10 14 21
+          jpg #:   1  2  3  4  5  6  7  8  9 10 11 12
+          LORRELLEEYY LORELEY
+40  /zelda/loreley.html
+    - end of corridor, after a right turn i find a dead end, in this very case the solution seems to be palpable, huge black button with a 'click here' message awaits me
+      this one must be easy, way too easy
+41  /zelda/rickrolled.html
+    - finally above water, though i've reached the surface it seems i must dive down once again since there are only two exists out of the antique court i've arrived and both lead down
+      both are covered by closed grates
+    > /zelda/findurplace.html, map of EBONY, shows places and people, map went wrong somehow, most parts unreadable but could still reveal something
+==> 41 Branch 1
+42  /zelda/loreena.html
+    > climb down but invisible force pulls me back, direction of falling changes, i think gravity keeps changing, reach some kind of metallic grind, really bizarre place
+43  /zelda/beansidhe.html
+    - no idea how i left that previous place, new place doesn't make much more sense, walking along a pipeline, few meters below me it doesn't exist, maybe it's time to find out something unexpected...
+44  /zelda/wayeasy.html
+    - end up behind closed door and picture attached to wall, no absurd things in this room
+    > /zelda/viewlvl44add.html, map of morocco
+    > /zelda/morocco/marrakech.html, redirect to level 45
+45  /yvonn/draw.html
+    - outdoors again, landscape reminds me of some places i saw long before rose red, maybe i'm in one of the ourter regions of EBONY
+      open gate in front of me, i enter, leads into huge labyrinth, roam for half an hour only to end up at entrance, should find a guide before entering again
+    
+==> 41 Branch 2
+    > /zelda/sirius/black.html, redirect to /zelda/janet/bprepared.html
+      climb down, lose grip and fall, reach new corridor unhurt, not alone, someone snuck behind me, female voice calls my name, i've met her once
+      redirect to /janet/unknown/findtheright1.html
+      > /janet/unknown/c##.html > /janet/unknown/rematerial.html > /zelda/level43ish.html > /zelda/wayeasy.html
+      > /janet/unknown/c09.html > /janet/unknown/ggbattle.html
+        no talk, fight, she gives me a blade to defend myself, she doesn't want to talk, she wants to battle
 ==> 11 Branch 2
 12  /celia/dreamy.html
     - elevator stops, as i exit the machine goes down a bit and stops functioning, no way out not even a door
